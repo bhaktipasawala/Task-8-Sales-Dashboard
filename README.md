@@ -14,7 +14,6 @@ Create a simple interactive dashboard showing sales performance by product, regi
 
 ## Visuals Added
 - Bar Chart: Sales by Sub-Category
-- Line + Bar Combo: Profit and Quantity by Sub-Category
 - Pie Chart: Sales by Region
 - Bar Charts: Payment Mode, Segment, Shipping Mode, and Category
 
